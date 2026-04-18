@@ -18,7 +18,7 @@
            revision="lineage-23.2" />
            
   <project path="kernel/xiaomi/mt6785"
-           name="android_kernel_xiaomi_mt6765"
+           name="android_kernel_xiaomi_mt6785"
            remote="ximi"
            revision="lineage-23.2" />
 
